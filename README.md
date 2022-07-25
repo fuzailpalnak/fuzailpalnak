@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <!-- #### Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fuzailpalnak&show_icons=true&include_all_commits=true&theme=onedark" alt="Fuzail's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fuzailpalnak&show_icons=true&include_all_commits=true&theme=onedark" alt="Github stats" />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fuzailpalnak&layout=compact&theme=onedark" />
@@ -29,5 +32,5 @@ Here are some ideas to get you started:
 </p>
 
 <!-- #### Contribution Graph -->
-[![Fuzail Palnak's github activity graph](https://activity-graph.herokuapp.com/graph?username=fuzailpalnak&theme=react-dark)](https://github.com/fuzailpalnak/github-readme-activity-graph)
-
+<!-- [![Fuzail Palnak's github activity graph](https://activity-graph.herokuapp.com/graph?username=fuzailpalnak&theme=react-dark)](https://github.com/fuzailpalnak/github-readme-activity-graph)
+ -->
